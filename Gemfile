@@ -6,7 +6,7 @@ gem 'rails', '3.2.6'
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 
 gem 'sqlite3'
-gem "paperclip", "~> 2.5.2"
+gem "paperclip", "~> 4.3.7"
 
 
 # Gems used only for assets and not required
